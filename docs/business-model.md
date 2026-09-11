@@ -14,7 +14,7 @@
   and approving investment proposals," with a proposal "accepted within
   15 days" if it meets criteria and a decision "within 60 days" after
   acceptance (no article/section number given on DICA's own reachable
-  pages -- see `src/marketentry/facts.cljc` for the full honest-gap
+  pages -- see `src/marketentry/facts.cljk` for the full honest-gap
   account)
 - Annual Return (AR) staged-deadline gate (flagship check) -- bars a
   filing that claims the wrong AR compliance status for its own declared
