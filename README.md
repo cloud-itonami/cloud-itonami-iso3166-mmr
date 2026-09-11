@@ -50,7 +50,7 @@ fabrication throughout.**
   this iteration's author read (`idn`'s field-presence boolean, `lao`'s
   legislative authority-routing classification, `brn`'s bare precedence
   test).
-- `src/statute/facts.cljc` -- general-law catalog: the Myanmar
+- `src/statute/facts.cljk` -- general-law catalog: the Myanmar
   Investment Law, the Myanmar Companies Law 2017, and the Myanmar
   Companies Regulations 2018. This catalog deliberately carries NO
   labour-law entry and NO tax-law entry -- ILO NATLEX/NORMLEX returned
@@ -81,7 +81,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Myanmar:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
